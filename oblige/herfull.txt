@@ -1,0 +1,68 @@
+-- CONFIG FILE : OBLIGE 7.70
+-- OBLIGE Level Maker (C) 2006-2017 Andrew Apted
+-- http://oblige.sourceforge.net/
+
+seed = 728874590
+
+---- Game Settings ----
+
+game = heretic
+engine = zdoom
+length = game
+theme = jumble
+
+---- Architecture ----
+
+size = prog
+outdoors = mixed
+caves = mixed
+liquids = mixed
+hallways = mixed
+teleporters = mixed
+steepness = mixed
+
+---- Monsters ----
+
+mons = mixed
+strength = medium
+ramp_up = epi
+bosses = easier
+traps = mixed
+cages = mixed
+
+---- Pickups ----
+
+health = more
+ammo = more
+weapons = very_soon
+items = more
+secrets = mixed
+
+---- Other Modules ----
+
+@export_map = 0
+
+@heretic_mon_control = 1
+  warrior = default
+  Ironlich = default
+  warrior_ghost = default
+  sabreclaw = default
+  gargoyle = default
+  nitro = default
+  ophidian = default
+  golem = default
+  weredragon = default
+  fire_garg = default
+  Maulotaur = default
+  D_Sparil = default
+  golem_ghost = default
+  nitro_ghost = default
+  disciple = default
+
+@heretic_weapon_control = 0
+
+@misc = 0
+
+@small_spiderdemon = 0
+
+-- END --
