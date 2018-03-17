@@ -1,6 +1,6 @@
 # Niks Awesome configs
 
-##Used in my super riced Archlinux build
+## Used in my super riced Archlinux build
 These arn't like super professional or anything, but I like them.
 
 ### Bash rc
