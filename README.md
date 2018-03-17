@@ -1,7 +1,11 @@
 # Niks Awesome configs
-
-## Used in my super riced Archlinux build
 These arn't like super professional or anything, but I like them.
 
-### Bash rc
-This is based of the Gentoo defaults, with my own custumizations, like `neofetch` and `fortume-mod`. 
+### bashrc
+This is based of the Gentoo defaults, with my own custumizations, like `neofetch` and `fortume-mod`. I also made a ton of aliases that I personaly use.
+
+### vimrc
+Just a small nice vim config. Has relative line numbers, and syntax higlighting.
+
+### ranger
+All the standard ranger configs, but with some custumization. Has picture previews
