@@ -125,7 +125,7 @@ alias e='vim'
 
 
 #Locations
-alias down='ranger/hone/nik/Downloads'
+alias down='ranger /home/nik/Downloads'
 alias docs='ranger /home/nik/Documents'
 alias vids='ranger /home/nik/Videos'
 alias pics='ranger /home/nik/Pictures'
@@ -136,6 +136,7 @@ neofetch
 fortune -ae
 
 #Color in man pages
+
 man() {
     LESS_TERMCAP_md=$'\e[01;31m' \
     LESS_TERMCAP_me=$'\e[0m' \
