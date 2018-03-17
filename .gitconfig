@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Nik Strauss
+#	email = nik@archlinux.localdomain
+[user]
+	name = Nik Strauss
+	email = nikcstrauss@gmail.com
+
+[credential]
+	helper = cache --timeout=3600

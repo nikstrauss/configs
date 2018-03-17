@@ -8,7 +8,10 @@ This is based of the Gentoo defaults, with my own custumizations, like `neofetch
 Just a small nice vim config. Has relative line numbers, and syntax higlighting.
 
 ### ranger
-All the standard ranger configs, but with some custumization. Has picture previews.
+All the standard ranger configs, but with some custumization. Has picture previews and removed mouse support.
 
 ### oblige
 Configs made by me for the Oblige Doom map generator.
+
+### git
+Added the git config, pretty basic but with password caching.
