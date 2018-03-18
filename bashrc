@@ -115,6 +115,7 @@ alias onedrive-status='journalctl --user-unit onedrive -f'
 alias ll='ls -l'
 alias la='ls -la'
 alias pkgver='cat PKGBUILD | grep pkgver='
+alias wifi='sudo nmtui'
 
 #Quick commands
 alias c='clear'
