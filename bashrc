@@ -123,6 +123,7 @@ alias cn='clear && neofetch'
 alias cf='clear && fortune -ae'
 alias r='clear && source ~/.bashrc'
 alias e='vim'
+alias cnf='clear && neofetch && fortune -ae'
 
 
 #Locations
