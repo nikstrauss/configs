@@ -116,6 +116,7 @@ alias ll='ls -l'
 alias la='ls -la'
 alias pkgver='cat PKGBUILD | grep pkgver='
 alias wifi='sudo nmtui'
+alias weather='curl wttr.in/Guadalajara'
 
 #Quick commands
 alias c='clear'
@@ -135,6 +136,7 @@ alias mus='ranger /home/nik/Music'
 
 #Rice rice baby
 neofetch
+curl -s wttr.in/guadalajara | head -q -n 17
 fortune -ae
 
 #Color in man pages
