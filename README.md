@@ -2,7 +2,8 @@
 These arn't like super professional or anything, but I like them.
 
 ### bashrc
-This is based of the Gentoo defaults, with my own custumizations, like `neofetch` and `fortume-mod`. I also made a ton of aliases that I personaly use.
+This is based of the Gentoo defaults, with my own custumizations, like `neofetch` and `fortune-mod`. I also made a ton of 
+aliases that I personaly use. There is also a really cool weather forcast, which is set to Guadalajara in my config.
 
 ### vimrc
 Just a small nice vim config. Has relative line numbers, and syntax higlighting.
